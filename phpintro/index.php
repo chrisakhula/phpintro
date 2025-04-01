@@ -8,6 +8,10 @@
 <body>
     <?php
     echo "Hellow World!";
+
+    // Variables - Memory location
+    $name = Cleophas Ouma
+    echo $name
     ?>
 </body>
 </html>
